@@ -35,3 +35,26 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+/*        Memories        */ 
+// Stack (Primitive)
+// Heap (Non-Primitive)
+
+let myyoutubename = "talalshahcodes"
+
+let anothername = myyoutubename
+anothername = "talalbhaig"
+
+console.log(anothername);
+
+let userOne = {
+    email: "talal@satisfies.com"
+}
+
+let userTwo = userOne
+
+userTwo.eamil = "asdkkdsf@gas.com"
+
+
+console.log(userone);
+console.log(usertwo);
