@@ -18,7 +18,7 @@ const temperature = 41
 //     console.log(`User power: ${power}`);
 // }
 
-// console.log(`User power: ${power}`);
+// console.log(`User power: ${power}`);erorr
 
 
 // const balance = 1000
